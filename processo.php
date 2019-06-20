@@ -136,7 +136,7 @@ $informacoes = [
         <td><?= $informacoes['cor']?></td>
         <td><?= $informacoes['ano']?></td>
         <td>
-            <form action="/xls.php" method="post">
+            <form action="xls.php" method="post">
                 <input type="hidden" name="placa" value="<?= $informacoes['placa']?>">
                 <input type="hidden" name="renavam" value="<?= $informacoes['renavam']?>">
                 <input type="hidden" name="chassi" value="<?= $informacoes['chassi']?>">

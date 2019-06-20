@@ -17,7 +17,7 @@
 </head>
 
 <body class="text-center">
-<form class="form-signin" action="/processo.php" method="post">
+<form class="form-signin" action="processo.php" method="post">
     <!--    <img class="mb-4" src="../../assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">-->
     <h1 class="h3 mb-3 font-weight-normal">Informações do Veículo</h1>
     <label for="inputEmail" class="sr-only">Placa</label>
