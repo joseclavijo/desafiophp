@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 $pasta_cookies = 'cookies/';
 define('COOKIELOCAL', str_replace('\\', '/', realpath('./')).'/'.$pasta_cookies);
@@ -99,7 +99,7 @@ $informacoes = [
     <meta name="author" content="">
     <!--    <link rel="icon" href="../../../../favicon.ico">-->
 
-    <title>Consulta Veiculo Dentra DF</title>
+    <title>Consulta Veículo Detran DF</title>
 
     <!-- Principal CSS do Bootstrap -->
     <link href="https://getbootstrap.com.br/docs/4.1/dist/css/bootstrap.min.css" rel="stylesheet">
